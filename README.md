@@ -146,5 +146,3 @@ training    2018-09-23 06:42:06.021    FTL         153768492602129387 IND421302A
 - **Tools**: Power Query (for data cleaning), Power BI (for visualization).  
 
 ---
-
-This `.md` file is a complete Markdown document named `Delhivery_Logistics_Analysis.md`, structured with clear headings, lists, and formatted sections. It includes all the content from the project documentation, ensuring it is ready for use in a repository or documentation platform. Let me know if you need any further adjustments!
