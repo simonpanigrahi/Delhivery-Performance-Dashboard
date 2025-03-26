@@ -1,13 +1,8 @@
-# Delhivery_Logistics_Analysis.md
-
 # Delhivery Logistics Performance Analysis
 
 ## Project Overview
 
 This project analyzes the logistics performance of Delhivery, a leading logistics company in India, using a publicly available dataset from Kaggle. The dataset, containing 14,482 delivery trip records, was cleaned using Power Query and visualized through a Power BI dashboard named "Delhivery Logistics Performance Dashboard." The dashboard highlights key metrics such as average trip times, inefficiency factors, and the most inefficient routes, addressing critical business questions for Delhivery. The analysis reveals a significant gap between actual trip times (21.34 minutes) and OSRM-estimated times (2.19 minutes), indicating operational inefficiencies, and identifies problematic routes such as Surat to Jorhat. This project provides actionable insights to help Delhivery optimize its logistics operations and improve delivery efficiency.
-
-**Brief Description (150 characters):**  
-Analyzed Delhivery's logistics performance using a Kaggle dataset. Built a Power BI dashboard to identify inefficiencies, revealing a 21.34 vs. 2.19-minute trip time gap.
 
 ## Abstract
 
@@ -27,7 +22,11 @@ This project focuses on analyzing the logistics performance of Delhivery, a majo
 
 ## Dataset Description
 
-The dataset, sourced from Kaggle, contains 14,482 records of delivery trips by Delhivery, with 18 columns capturing various aspects of each trip. Key columns relevant to the analysis include:
+The dataset, sourced from Kaggle with about 150000 rows with a lot of information in it. Here is the link to the dataset used:
+[See the dataset](https://www.kaggle.com/datasets/santanukundu/delhivery-dataset)
+
+
+After cleaning it contains 14,482 records of delivery trips by Delhivery, with 18 columns capturing various aspects of each trip. Key columns relevant to the analysis include:
 
 - **trip_creation_time**: Timestamp when the trip was created (e.g., 2018-09-20 02:35:36.476).  
 - **route_type**: Type of route, either Carting or FTL (Full Truck Load).  
