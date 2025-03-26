@@ -131,7 +131,7 @@ This project successfully analyzed Delhivery’s logistics performance using a K
 ## Appendix
 
 ### Dashboard Screenshot
-*(Note: The screenshot is not embedded in this Markdown file but can be found in the project files as provided.)*
+![Alt text](Dashboard.png)
 
 ### Sample Data
 A snippet of the dataset is provided below:
