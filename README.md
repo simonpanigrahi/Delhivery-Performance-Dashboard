@@ -121,7 +121,7 @@ Several challenges and limitations were encountered during the project:
 - **Limitations**:  
   - The dataset covers only September and October 2018, limiting the ability to analyze seasonal trends.  
   - The absence of external data, such as traffic or weather conditions, restricts the ability to fully explain inefficiencies.  
-  - The inefficiency factor, defined as `actual_time / osrm_time`, may not capture all aspects of inefficiency, and alternative metrics could provide additional insights.  
+  - The inefficiency factor, defined as `actual_time / osrm_time`, may not capture all aspects of inefficiency, and alternative metrics could provide additional insights to the user.
 
 ## Conclusion
 
