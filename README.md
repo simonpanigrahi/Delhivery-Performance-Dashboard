@@ -133,7 +133,7 @@ This project successfully analyzed Delhivery’s logistics performance using a K
 ![Alt text](Dashboard.png)
 
 ### Sample Data
-A snippet of the dataset is provided below:
+A snippet of the dataset is provided below:-
 
 ```
 data        trip_creation_time         route_type  trip_uuid          source_center  source_name                        destination_center  destination_name                  actual_distance_to_destination  actual_time  osrm_time  osrm_distance
